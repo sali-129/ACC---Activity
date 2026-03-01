@@ -1,0 +1,18 @@
+Service_Code,Parent_Service_Code,Description,Typical_Use,Avg_Cost_NZD
+PHYS001,PHYS,Initial Physiotherapy Assessment,First consultation,95
+PHYS002,PHYS,Physiotherapy Treatment - Standard,Standard treatment session,75
+PHYS003,PHYS,Physiotherapy Treatment - Extended,Extended/complex treatment,110
+PHYS004,PHYS,Dry Needling,Trigger point dry needling,65
+PHYS005,PHYS,Sports Massage,Therapeutic sports massage,85
+CHIRO001,CHIRO,Chiropractic Initial Consultation,First chiropractic visit,90
+CHIRO002,CHIRO,Chiropractic Adjustment,Standard adjustment,70
+CHIRO003,CHIRO,Spinal Manipulation,Spinal manipulation therapy,75
+OSTEO001,OSTEO,Osteopathy Initial Assessment,First osteopathy consultation,100
+OSTEO002,OSTEO,Osteopathic Treatment,Osteopathic manual therapy,85
+MASSAGE001,MASSAGE,Remedial Massage - 30min,Short remedial massage,60
+MASSAGE002,MASSAGE,Remedial Massage - 60min,Full remedial massage,95
+ACUP001,ACU,Acupuncture Treatment,Acupuncture session,70
+REHAB001,REHAB,Exercise Rehabilitation Session,Supervised exercise therapy,80
+REHAB002,REHAB,Hydrotherapy Session,Pool-based rehabilitation,90
+SPORTS001,SPORTS,Sports Injury Assessment,Assessment of sports injury,110
+SPORTS002,SPORTS,Sports Taping/Strapping,Supportive taping,45
